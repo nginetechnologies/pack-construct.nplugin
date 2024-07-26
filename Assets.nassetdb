@@ -1,0 +1,20 @@
+{
+    "0725bd01-daa7-eb56-07be-f7e833b4effc": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/2D Platformer.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "5ca2e225-81c3-4cb9-add9-8593679e0d67": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin",
+        "name": "Construct Assets"
+    },
+    "bb6706f8-7f66-9f0e-784d-a25463830e5f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Construct_Thumb.tex.nasset"
+    },
+    "guid": "fdb2cf7d-2580-45be-d13f-1aa5916d4543"
+}
