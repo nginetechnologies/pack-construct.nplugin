@@ -1,4 +1,4 @@
-	![Platformer Industrial](Assets/Thumbnail/Construct_Thumb.png)
+	![Construct_Thumb](https://github.com/user-attachments/assets/26445749-d056-4e61-bcdd-97f7236abbba)
 
 	Platformer Pack: Industrial
 
