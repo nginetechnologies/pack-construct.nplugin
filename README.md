@@ -1,6 +1,6 @@
-	![Construct_Thumb](https://github.com/user-attachments/assets/724d43cc-b6a3-4b28-9967-7389095ffa54)
+![Construct_Thumb](https://github.com/user-attachments/assets/724d43cc-b6a3-4b28-9967-7389095ffa54)
 
-	Platformer Pack: Industrial
+Platformer Pack: Industrial
 
 	by  Kenney Vleugels (Kenney.nl)
 
